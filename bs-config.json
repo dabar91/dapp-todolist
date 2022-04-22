@@ -1,0 +1,12 @@
+{
+    "port": 8080,
+    "server": {
+      "baseDir": [
+        ".",
+        "./build/contracts"
+      ],
+      "routes": {
+        "/vendor": "./node_modules"
+      }
+    }
+  }
