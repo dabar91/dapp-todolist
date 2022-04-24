@@ -17,4 +17,4 @@ Install Container dependencies:
 
 
 START GANACHE
-ganache -h 0.0.0.0
+- ganache -h 0.0.0.0
