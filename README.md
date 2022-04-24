@@ -12,3 +12,7 @@ Install Container dependencies:
 - apt-get update
 - apt-get install -y nodejs npm 
 - npm install -g ganache truffle
+
+
+#START GANACHE
+ganache -h 0.0.0.0
