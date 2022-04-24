@@ -7,6 +7,7 @@ Docker container setup
 - docker exec -it {CONTAINER_ID} /bin/bash
 
 
+
 Install Container dependencies:
 
 - apt-get update
@@ -14,6 +15,6 @@ Install Container dependencies:
 - npm install -g ganache truffle
 
 
-#START GANACHE
 
+START GANACHE
 ganache -h 0.0.0.0
